@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6799FF&height=300&section=header&text=Hello!&desc=의사소통에%20자신있는%20개발자%20김하늘입니다.%20&fontSize=90&descSize=30&fontColor=ffffff&fontAlignY=40)
 
 
-<h1 align="center">☀️ 새로운 기술스택에 관심이 많고 항상 무언가 배우는 걸 좋아합니다.</h1>
+<h5 align="center">☀️ 새로운 기술스택에 관심이 많고 항상 무언가 배우는 걸 좋아합니다.</h5>
 
 
 
