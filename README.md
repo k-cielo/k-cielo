@@ -1,5 +1,5 @@
 <div align="center">
- # 
+
 ### Hi there 👋
 
 
@@ -21,5 +21,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=auto)
+
 
 </div>
