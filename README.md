@@ -3,6 +3,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6799FF&height=300&section=header&text=Hello!&desc=의사소통에%20자신있는%20개발자%20김하늘입니다.%20&fontSize=90&descSize=30&fontColor=ffffff&fontAlignY=40)
 
 
+<h3 align="center">☁️새로운 기술스택에 관심이 많고 항상 무언가 배우는 걸 좋아합니다.</h3>
+
+
+
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23A5EBF7&title_bg=%23FF7575&icon=&icon_color=%23000000&title=hits&edge_flat=false"/></a>
 
 
