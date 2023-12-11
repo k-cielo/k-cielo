@@ -7,18 +7,37 @@
 <h5 align="center">☀️ 어떤 일이든 포기하지 않는 끈기를 가지고 있습니다!</h5>
 <h5 align="center">☀️ 사람들과 대화하는 것을 즐기고 대화를 통해 갈등상황을 해결한 경험이 있습니다!</h5>
 
+<br></br>
+</hr>
+<br></br>
 
 
 
 
-<hr></hr>
 
 <br></br>
 <br></br>
 <br></br>
-<br></br>
+
+
+
+
+
+
+
+
+</hr>
 <br></br>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fk-cielo%2Fhit-counter&count_bg=%236C91EA&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+
+
+
+
+
+
+
+
+
 
 
 <h3 align="center">💡 My Most Used Languages 💡</h3>
