@@ -28,10 +28,7 @@
 
 
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-cielo&layout=레이아웃 스타일&theme=스타일)
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-cielo&layout=compact)
 
 <hr></hr>
 <br></br>
