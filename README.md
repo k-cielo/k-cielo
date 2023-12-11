@@ -1,5 +1,7 @@
+<div align="center">
+  
 ### Hi there 👋
-<!--![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300§section=header&text=Welcome!😊&desc=This%20is%20Sumin%20playground.%20&fontSize=90&descSize=30&fontColor=ffffff&fontAlignY=40)-->
+
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello!&desc=의사소통에%20자신있는%20개발자%20김하늘입니다.%20&fontSize=90&descSize=30&fontColor=ffffff&fontAlignY=40)
 
@@ -19,3 +21,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+</div>
