@@ -35,7 +35,7 @@
 
 <br>
 <h4>Backend</h4>
-<img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/>
+<img src="https://img.shields.io/badge/007396?style=flat-square&logo=OpenJDK&logoColor=white"/>
 
 <br>
 <h4>Database</h4>
