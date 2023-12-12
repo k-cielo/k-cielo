@@ -10,6 +10,19 @@
 <h5 align="center">☀️ 사람들과 대화하는 것을 즐기고 대화를 통해 갈등상황을 해결한 경험이 있습니다!</h5>
 <br>
 <h4>CONTACT</h4>
+<div style="display:flex; flex-direction:row;">
+    <a href="mailto:kwonbe99@gmail.com">
+        <img src="https://img.shields.io/badge/
+        Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+    </a>
+    <a href="https://open.kakao.com/o/sGFzzbsf">
+        <img src="https://img.shields.io/badge/
+        KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"> 
+    </a>
+    <a href="https://www.instagram.com/kwonbi_">
+        <img src="https://img.shields.io/badge/
+        Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
+    </a>
 <a href="https://byul91oh.tistory.com/">    <img         src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://byul91oh.tistory.com/"        style="height : auto; margin-left : 10px; margin-right : 10px;"/></a> 
 
 
