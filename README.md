@@ -24,8 +24,25 @@
 <hr></hr>
 <br></br>
 
-<h2>🔨STACKS</h2>
+<h2>🔨STACKS(Studing)</h2>
+<br>
+<h4>Frontend</h4>
+<img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 
+<br>
+<h4>Backend</h4>
+
+<br>
+<h4>Database</h4>
+
+<br>
+<h4>Development Tools</h4>
+
+<br>
+<h4>Framework</h4>
+
+<br>
+<h4>Version Control</h4>
 
 
 <br></br>
