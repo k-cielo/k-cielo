@@ -15,8 +15,10 @@
 
 <!--<div style="display:flex; flex-direction:row;">-->
  <a href="mailto:kimhn10@gmail.com">
-        <img src="https://img.shields.io/badge/
+  <img src="https://img.shields.io/badge/gmail-EA4335?tyle=flatsquare&logo=Gmail&logoColor=white"/>
+      <!--  <img src="https://img.shields.io/badge/
         Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+ -->
  </a>
 <br></br>
 <hr></hr>
