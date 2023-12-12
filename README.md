@@ -9,9 +9,9 @@
 <h5 align="center">☀️ 어떤 일이든 포기하지 않는 끈기를 가지고 있습니다!</h5>
 <h5 align="center">☀️ 사람들과 대화하는 것을 즐기고 대화를 통해 갈등상황을 해결한 경험이 있습니다!</h5>
 <br>
-<h4>CONTACT</h4>
+<h4>✉️CONTACT</h4>
 
-
+<img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/>
 
 <!--<div style="display:flex; flex-direction:row;">-->
  <a href="mailto:kimhn10@gmail.com">
