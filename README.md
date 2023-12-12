@@ -1,7 +1,7 @@
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6799FF&height=300&section=header&text=Hello!&desc=열정가득한%20신입개발자%20김하늘%20&fontSize=90&descSize=30&fontColor=ffffff&fontAlignY=40)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-cielo&layout=compact&theme=dracula)](https://github.com/metleeha)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-cielo&layout=compact&theme=dracula)](https://github.com/k-cielo)
 
 
 <h2>💁INTRODUCTION</h2>
