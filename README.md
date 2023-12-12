@@ -1,7 +1,7 @@
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6799FF&height=300&section=header&text=Hello!&desc=열정가득한%20신입개발자%20김하늘%20&fontSize=90&descSize=30&fontColor=ffffff&fontAlignY=40)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohbyul&layout=compact&theme=dracula)](https://github.com/metleeha)
 
 
 <h2>💁INTRODUCTION</h2>
@@ -10,6 +10,9 @@
 <h5 align="center">☀️ 사람들과 대화하는 것을 즐기고 대화를 통해 갈등상황을 해결한 경험이 있습니다!</h5>
 <br>
 <h4>CONTACT</h4>
+<a href="https://byul91oh.tistory.com/">    <img         src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://byul91oh.tistory.com/"        style="height : auto; margin-left : 10px; margin-right : 10px;"/></a> 
+
+
 <div style="display:flex; flex-direction:row;">
  <a href="mailto:kimhn10@gmail.com">
         <img src="https://img.shields.io/badge/
