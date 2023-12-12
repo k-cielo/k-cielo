@@ -2,18 +2,19 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6799FF&height=300&section=header&text=Hello!&desc=의사소통에%20자신있는%20개발자%20김하늘%20&fontSize=90&descSize=30&fontColor=ffffff&fontAlignY=40)
 
+
+
+<h2>💁INTRODUCTION</h2>
+<h5 align="center">☀️ 새로운 기술스택에 관심이 많고 항상 무언가 배우는 걸 좋아합니다!</h5>
+<h5 align="center">☀️ 어떤 일이든 포기하지 않는 끈기를 가지고 있습니다!</h5>
+<h5 align="center">☀️ 사람들과 대화하는 것을 즐기고 대화를 통해 갈등상황을 해결한 경험이 있습니다!</h5>
+<br>
 <h4>CONTACT</h4>
 <div style="display:flex; flex-direction:row;">
  <a href="mailto:kimhn10@gmail.com">
         <img src="https://img.shields.io/badge/
         Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
  </a>
-
-<h2>💁INTRODUCTION</h2>
-<h5 align="center">☀️ 새로운 기술스택에 관심이 많고 항상 무언가 배우는 걸 좋아합니다!</h5>
-<h5 align="center">☀️ 어떤 일이든 포기하지 않는 끈기를 가지고 있습니다!</h5>
-<h5 align="center">☀️ 사람들과 대화하는 것을 즐기고 대화를 통해 갈등상황을 해결한 경험이 있습니다!</h5>
-
 <br></br>
 <hr></hr>
 <br></br>
