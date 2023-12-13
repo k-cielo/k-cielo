@@ -52,7 +52,7 @@
 
 <br>
 <h4>🐛Framework</h4>
-<img src="https://img.shields.io/badge/6DB33F-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
 
 <br>
