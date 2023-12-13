@@ -47,13 +47,13 @@
 <br>
 <h4>🐛Development Tools</h4>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
-<img src="https://img.shields.io/badge/eclipseide-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
-<img src="https://img.shields.io/badge/intellijidea-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>
+<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
+<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>
 
 <br>
 <h4>🐛Framework</h4>
-<img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
 
 <br>
 <h4>🐛Version Control</h4>
