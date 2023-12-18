@@ -70,9 +70,9 @@
 -->
 
 <hr></hr>
-
+<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-cielo&layout=compact)
-
+-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-cielo&layout=donut)](https://github.com/k-cielo/github-readme-stats)
 <hr>
 
