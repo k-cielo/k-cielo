@@ -4,10 +4,10 @@
 
 
 
-<h2>💁INTRODUCTION</h2>
-**☀️ 새로운 기술스택에 관심이 많고 항상 무언가 배우는 걸 좋아합니다!**
-<h5 align="center">☀️ 어떤 일이든 포기하지 않는 끈기를 가지고 있습니다!</h5>
-<h5 align="center">☀️ 사람들과 대화하는 것을 즐기고 대화를 통해 갈등상황을 해결한 경험이 있습니다!</h5>
+<h2>💁INTRODUCTION</h2><br></br>
+☀️ 새로운 기술스택에 관심이 많고 항상 무언가 배우는 걸 좋아합니다!<br></br>
+☀️ 어떤 일이든 포기하지 않는 끈기를 가지고 있습니다!<br></br>
+☀️ 사람들과 대화하는 것을 즐기고 대화를 통해 갈등상황을 해결한 경험이 있습니다!<br></br>
 <br>
 <h4>✉️CONTACT</h4>
 <a href="https://610sky.tistory.com" target="_blank"><img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://610sky.tistory.com/">
