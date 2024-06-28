@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=6799FF&height=300&section=header&text=Hello!&desc=열정가득한%20신입개발자%20김하늘%20&fontSize=90&descSize=30&fontColor=ffffff&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=6799FF&height=300&section=header&text=Hello!&desc=끈기있는%20신입개발자%20김하늘%20&fontSize=90&descSize=30&fontColor=ffffff&fontAlignY=40)
 
 
 
