@@ -1,9 +1,9 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=6799FF&height=300&section=header&text=Hello!&desc=끈기있는%20개발자%20김하늘%20&fontSize=90&descSize=30&fontColor=ffffff&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=6799FF&height=300&section=header&text=Hello!%20&fontSize=90&descSize=30&fontColor=ffffff&fontAlignY=40)
 
   
-
+<!--
 <h2>💁INTR ODUCTION</h2><br></br>
 
 ☀️ 새로운 기술스택에 관심이 많고 항상 무언가 배우는 걸 좋아합니다!<br></br>
@@ -18,7 +18,7 @@
 
 
 <!--<div style="display:flex; flex-direction:row;">-->
- <a href="mailto:kimhn10@gmail.com">
+ <!--<a href="mailto:kimhn10@gmail.com">
   <img src="https://img.shields.io/badge/gmail-EA4335?tyle=flatsquare&logo=Gmail&logoColor=white"/>
       <!--  <img src="https://img.shields.io/badge/
         Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
@@ -28,7 +28,7 @@
 <hr></hr>
 <br></br>
  
-<h2>🔨STACKS(Studying)</h2>
+<!--<h2>🔨STACKS(Studying)</h2>
 <br>
 <h4>🐛Skills </h4>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/>
@@ -44,23 +44,23 @@
 -->
 
 <br>
-<h4>🐛Database</h4>
+<!--<h4>🐛Database</h4>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 
 <br>
-<h4>🐛Development Tools</h4>
+<!--<h4>🐛Development Tools</h4>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
 <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>
 
 <br>
-<h4>🐛Framework</h4>
+<!--<h4>🐛Framework</h4>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
 
 <br>
-<h4>🐛Version Control</h4>
+<!--<h4>🐛Version Control</h4>
 <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 
 <br></br>
