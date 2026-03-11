@@ -69,7 +69,7 @@
 
 <hr></hr>
 
-
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-cielo&layout=donut)](https://github.com/k-cielo/github-readme-stats)
 
 <hr></hr>
@@ -83,13 +83,12 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-cielo&layout=compact&theme=dracula)](https://github.com/k-cielo)
-많이 쓰는 언어
- 
+
 
 **k-cielo/k-cielo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+-->
 
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=6799FF)
