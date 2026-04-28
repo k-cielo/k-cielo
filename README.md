@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6799FF&height=300&section=header&text=Hello!%20&fontSize=90&descSize=30&fontColor=ffffff&fontAlignY=40)
 
@@ -94,4 +94,4 @@ Here are some ideas to get you started:
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=6799FF)
 
 
-</div>
+</div> -->
